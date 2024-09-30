@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/codeAlphaPortfolio/static/css/main.0db4372e.css",
+    "main.js": "/codeAlphaPortfolio/static/js/main.bc2247cc.js",
+    "static/media/MyImg.jpg": "/codeAlphaPortfolio/static/media/MyImg.d1e29df271eef55b3c80.jpg",
+    "static/media/project2.jpg": "/codeAlphaPortfolio/static/media/project2.22b7bfd149d5ebf0bfa9.jpg",
+    "static/media/intro-bg.jpg": "/codeAlphaPortfolio/static/media/intro-bg.435b9a331b78cb1b0510.jpg",
+    "static/media/project3.jpg": "/codeAlphaPortfolio/static/media/project3.e6f9ed3e3beae5a91db3.jpg",
+    "static/media/project1.avif": "/codeAlphaPortfolio/static/media/project1.268bb8c3c6ebea80503c.avif",
+    "index.html": "/codeAlphaPortfolio/index.html",
+    "main.0db4372e.css.map": "/codeAlphaPortfolio/static/css/main.0db4372e.css.map",
+    "main.bc2247cc.js.map": "/codeAlphaPortfolio/static/js/main.bc2247cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db4372e.css",
+    "static/js/main.bc2247cc.js"
+  ]
+}
